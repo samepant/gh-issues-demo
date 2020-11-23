@@ -3,7 +3,7 @@ This repo is a little test app for fetching and displaying github issues for the
 
 It uses [Apollo](https://www.apollographql.com/docs/), [Graphql](https://graphql.org/), [Typescript](https://www.typescriptlang.org/docs) and React.
 
-[how the app should look](demo-img.png)
+![how the app should look](demo-img.png)
 
 ## Getting Started
 Clone the repo and install the dependencies with with `npm install`. In order to query github's api, you will need to [create an access token with your account](https://github.com/settings/tokens) and save it as the environment variable `REACT_APP_GH_TOKEN` in a `.env` file.

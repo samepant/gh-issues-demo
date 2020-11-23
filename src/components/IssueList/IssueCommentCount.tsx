@@ -7,8 +7,8 @@ const IssueCommentCount = ({issueCommentCount}: {issueCommentCount: number}) =>
     <style jsx>
         {`
           .count-parent {
-            bottom: -17%;
-            right: 7em;
+            bottom: -18%;
+            right: 1em;
             position: absolute;
             width: 3em;
             height: 3em;

@@ -9,7 +9,7 @@ const Issue = (issue: Issue) =>
     <a href={issue.node.url}>
       <h2>{issue.node.title}</h2>
       <div className='number'>
-        <p>{issue.node.number}</p>
+        <p>#{issue.node.number}</p>
       </div>
       <IssueLabels {...issue.node.labels} />
       <IssueAge issueTimestamp={issue.node.createdAt} issueAuthor={issue.node.author.login} />
@@ -29,8 +29,8 @@ const Issue = (issue: Issue) =>
           }
           .number {
             position: absolute;
-            bottom: -12%;
-            right: 1em;
+            bottom: -13%;
+            right: 4em;
             background: orchid;
             font-size: 1.4em; 
             font-weight: bold; 

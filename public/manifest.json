@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Github Issues Demo",
+  "name": "Cosmos-sdk issues demo using Graphql and typescript",
   "icons": [
     {
       "src": "favicon.ico",

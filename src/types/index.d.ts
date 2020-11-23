@@ -4,6 +4,9 @@ import React from 'react';
 /// <reference types="react" />
 /// <reference types="react-dom" />
 
+// Project type references
+/// <reference path="./issue.d.ts" />
+
 declare namespace NodeJS {
   interface ProcessEnv {
     readonly NODE_ENV: 'development' | 'production' | 'test';

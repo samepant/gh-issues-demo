@@ -3,7 +3,7 @@ This repo is a little test app for fetching and displaying github issues for the
 
 It uses [Apollo](https://www.apollographql.com/docs/), [Graphql](https://graphql.org/), [Typescript](https://www.typescriptlang.org/docs) and React.
 
-How it should look:
+How it should look:\
 <img src="demo-img.png" width="500" />
 
 ## Getting Started

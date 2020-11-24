@@ -1,7 +1,7 @@
 # Graphql and Typescript demo
 This repo is a little test app for fetching and displaying github issues for the Cosmos-sdk. 
 
-It uses [Apollo](https://www.apollographql.com/docs/), [Graphql](https://graphql.org/), [Typescript](https://www.typescriptlang.org/docs) and React.
+It uses [Apollo](https://www.apollographql.com/docs/), [Graphql](https://graphql.org/), [Typescript](https://www.typescriptlang.org/docs), [Styled-JSX](https://github.com/vercel/styled-jsx) and [React](https://reactjs.org/).
 
 How it should look:\
 <img src="demo-img.png" width="500" />
